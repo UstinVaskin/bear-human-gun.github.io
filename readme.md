@@ -29,7 +29,7 @@ bear-human-gun
 * JavaScript (ES6);
 
 ##### Approach Taken
-### Functionality (Main functtiions)
+### Functionality (Main functions)
 
 
 ### Final Product:
