@@ -14,7 +14,7 @@ bear-human-gun
 * Very first Javascript
 ### Brief:
 ![Image anchors 'bear-human-gun game'](https://i.imgur.com/eQJJvTM.png)
-* Deploy your game online, using Github Pages, where the rest of the world can access it;
+* Deploy game online, using Github Pages, where the rest of the world can access it;
 * Design logic for winning & visually displayed;
 * Random comp choice;
 * Use Javascript  for DOM manipulation;
