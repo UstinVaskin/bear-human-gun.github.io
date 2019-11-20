@@ -10,8 +10,8 @@ bear-human-gun
 
 /Users/ustinvaskin/Desktop/git-personal/bear-human-gun.github.io/Background-BHG.png
 ### Overview 
-## My variant of rock paper scissors
-* Very first Javascript
+## My variation of rock paper scissors
+
 ### Brief:
 ![Image anchors 'bear-human-gun game'](https://i.imgur.com/eQJJvTM.png)
 * Deploy game online, using Github Pages, where the rest of the world can access it;
